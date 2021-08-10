@@ -1,0 +1,56 @@
+  body {margin:0px;background:linear-gradient(90deg,rgba(21,0,0,0),rgba(0,0,25,1));}
+		   input[type="text"]
+		   {
+		   padding:3px;
+		   margin:10px;
+	       }
+		   #pic{float:right; margin:5px;border:2px solid; color:green;}
+		   #r1
+		   {
+		   
+		   position:static;
+		    border:1px solid black;
+			width:100%;
+			background:linear-gradient(90deg,rgba(255,0,0,0),rgba(0,0,255,1));
+			
+		   }
+		   #r2
+		   {
+		   
+		   margin:auto;
+		   }
+		   #r3 
+		   {
+		   display:inline-block;
+		   width:100%;
+		   text-align:center;
+		   float:center;
+		   }
+		   #r3 ul li
+		   {
+		   height:50%;
+		   display:inline-block;
+		   }
+		   #r3 ul li a
+		   {
+		   padding:10px;
+		   color:yellow;
+		   background-color:grey;
+		   text-decoration:none;
+		   }
+		   #r3 ul li a:hover
+		   {
+		   color:red;
+		   text-transform:uppercase;
+		   background-color:yellow;
+		   font-size:200%;
+		   padding:10px;
+		   }
+		   h1
+		   {  text-align:center;
+		      color:aqua;
+		   }
+		   span{
+		   color:red;
+		   }
+		 
